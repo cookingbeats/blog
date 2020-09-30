@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cooking Beats DevBlog"
+theme = "hugo-PaperMod"
+description = "A simple, clean, flexible Hugo theme"
+publishDir = "docs"
